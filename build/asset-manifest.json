@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97b6439c.css",
+    "main.js": "/static/js/main.00781576.js",
+    "static/media/VSVS-logo.png": "/static/media/VSVS-logo.aff26350dfb6845d887e.png",
+    "static/media/Carlos-image.png": "/static/media/Carlos-image.f2ce23be4527797d30e7.png",
+    "static/media/SHPE.jpeg": "/static/media/SHPE.f7bc9adc010855765e02.jpeg",
+    "index.html": "/index.html",
+    "main.97b6439c.css.map": "/static/css/main.97b6439c.css.map",
+    "main.00781576.js.map": "/static/js/main.00781576.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b6439c.css",
+    "static/js/main.00781576.js"
+  ]
+}
