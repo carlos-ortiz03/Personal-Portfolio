@@ -1,5 +1,5 @@
 {
-  "name": "personal-porfolio",
+  "name": "my-package",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,8 @@
     "react-scripts": "5.0.1",
     "react-spring": "^9.5.5",
     "tailwindcss-animation-delay": "^1.0.7",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -48,5 +49,9 @@
     "file-loader": "^6.2.0",
     "postcss": "^8.4.19",
     "tailwindcss": "^3.2.4"
-  }
+  },
+  "description": "Test package",
+  "main": "index.js",
+  "repository": "git@github.com:carlos-ortiz03/Personal-Portfolio.git",
+  "license": "MIT"
 }
